@@ -49,7 +49,7 @@ You need to set up the backend with routes for handling email sending, file uplo
 
 Configure the backend with the correct base URL.
 
-### 4. *Email Scheduling and Throttling*
+### 3. *Email Scheduling and Throttling*
 
 You can configure email scheduling and throttling in the backend as follows:
 
