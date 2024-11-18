@@ -1,0 +1,17 @@
+# Ignore .env files
+.env
+
+# Ignore Google credentials JSON files (adjust the pattern as needed)
+google-credentials.json
+credentials.json
+
+# Ignore any other sensitive files or directories
+*.env.*
+*.key
+*.pem
+*.p12
+*.cer
+
+# Ignore Excel sheets (both .xls and .xlsx)
+*.xls
+*.xlsx
