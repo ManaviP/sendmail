@@ -31,13 +31,13 @@ For the front-end:
 ```bash
 npm install
 npm start
-` ``` `
+``` 
 
 For the back-end:
 ```bash
 pip install -r requirements.txt
 flask run
-` ``` `
+```
 
 ### 2. *Backend Configuration*
 
