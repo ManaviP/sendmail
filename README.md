@@ -28,13 +28,13 @@ This application allows users to upload CSV files, create personalized email tem
 Ensure that you have Node.js (for the front-end) and Python 3.x (for the back-end) installed on your system. Then, run the following commands to install all required dependencies:
 
 For the front-end:
-bash
+```bash
 npm install
 npm start
 
 
 For the back-end:
-bash
+```bash
 pip install -r requirements.txt
 flask run
 
